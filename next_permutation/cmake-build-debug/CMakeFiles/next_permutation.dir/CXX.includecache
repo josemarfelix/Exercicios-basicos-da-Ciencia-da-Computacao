@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samsung/CLionProjects/next_permutation/main.cpp
+vector
+-
+algorithm
+-
+iostream
+-
+numeric
+-
+string
+-
+

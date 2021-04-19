@@ -1,0 +1,3 @@
+C:/Users/Samsung/CLionProjects/next_permutation/cmake-build-debug/CMakeFiles/next_permutation.dir
+C:/Users/Samsung/CLionProjects/next_permutation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samsung/CLionProjects/next_permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
